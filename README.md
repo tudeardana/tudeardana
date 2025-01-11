@@ -63,7 +63,7 @@
 
 <div style="flex: 1">
     <h3>GitHub Stats:</h3>
-<div style="display: flex; margin-top: 20px; gap: 20px;">
+<div align="center" style="display: flex; margin-top: 20px; gap: 20px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tudeardana&show_icons=true&locale=en&layout=compact" alt="tudeardana" style="flex: 1;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=tudeardana&show_icons=true&locale=en" alt="tudeardana" height="165" style="flex: 1;"/>
 </div>
